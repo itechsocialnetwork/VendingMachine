@@ -1,4 +1,4 @@
-package com.test.java.rest.constant;
+package com.test.java.rest;
 
 public class TestRest {
 
